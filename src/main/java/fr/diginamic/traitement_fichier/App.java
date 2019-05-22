@@ -15,7 +15,7 @@ public class App {
 	 */
 	public static void main(String[] args) {
 		
-		ArrayList<Produit>
+		ArrayList<Produit> listeProduits = new ArrayList<>();
 		
 		FileUtils.;
 	}

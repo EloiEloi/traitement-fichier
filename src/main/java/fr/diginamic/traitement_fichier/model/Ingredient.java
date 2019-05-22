@@ -1,4 +1,4 @@
-package fr.diginamic.traitement_fichier.service;
+package fr.diginamic.traitement_fichier.model;
 
 public class Ingredient {
 

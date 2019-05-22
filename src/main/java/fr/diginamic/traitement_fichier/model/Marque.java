@@ -1,18 +1,18 @@
 /**
  * 
  */
-package fr.diginamic.traitement_fichier.service;
+package fr.diginamic.traitement_fichier.model;
 
 /**
  * @author Eloi
  *
  */
-public class Categorie {
+public class Marque {
 
 	/** Constructor
 	 * 
 	 */
-	public Categorie() {
+	public Marque() {
 		// TODO Auto-generated constructor stub
 	}
 

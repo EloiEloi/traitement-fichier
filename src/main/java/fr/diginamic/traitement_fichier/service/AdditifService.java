@@ -7,12 +7,12 @@ package fr.diginamic.traitement_fichier.service;
  * @author Eloi
  *
  */
-public class Marque {
+public class AdditifService {
 
 	/** Constructor
 	 * 
 	 */
-	public Marque() {
+	public AdditifService() {
 		// TODO Auto-generated constructor stub
 	}
 
