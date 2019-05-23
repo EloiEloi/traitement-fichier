@@ -81,8 +81,6 @@ public class App {
 				Produit produit = new Produit(ligne);
 				listeProduits.add(produit);
 
-				System.out.println(ligne);
-
 			}
 
 			// // enregistrement dans la BDD du contenu de la liste de Categories
