@@ -3,17 +3,25 @@
  */
 package fr.diginamic.traitement_fichier.service;
 
+import fr.diginamic.traitement_fichier.dao.CategorieDao;
+import fr.diginamic.traitement_fichier.model.Categorie;
+
 /**
  * @author Eloi
  *
  */
 public class CategorieService {
 
-	/** Constructor
+	/**
+	 * Méthode qui insere un produit dans la BDD
 	 * 
+	 * @param produit
 	 */
-	public CategorieService() {
-		// TODO Auto-generated constructor stub
+	public void insert(Categorie categorie) {
+
+		CategorieDao catDao = new CategorieDao();
+		catDao.insert(categorie);
+
 	}
 
 }
