@@ -67,6 +67,7 @@ public class App {
 			listeLignes.remove(0);
 
 			// boucle pour parcourir la list contenant ligne par ligne le contenu du fichier
+			// et
 			for (String ligne : listeLignes) {
 
 				// on récupere les categories
